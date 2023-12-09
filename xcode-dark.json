@@ -5,14 +5,14 @@
         "theme.version": 1
     },
     "colors": {
-        "border": "3d3d3d",
+        "border": "3D3D3D",
         "fill": "202020",
         "focusRing": "8579ab",
         "shadow": "050505",
-        "text": "dfdfdf",
-        "icon": "b8b8b8",
-        "icon.blue.fill": "0063d5",
-        "icon.gray.fill": "828282",
+        "text": "FFFFFF",
+        "icon": "727476",
+        "icon.blue.fill": "3D85F7",
+        "icon.gray.fill": "727476",
         "icon.green.fill": "009250",
         "icon.orange.fill": "c70028",
         "icon.red.fill": "b61964",
@@ -21,8 +21,8 @@
 
         "icon.border": "0000000%",
 
-        "tab.border": "0000000%",
-        "tab.fill": "101010",
+        "tab.border": "282828",
+        "tab.fill": "282828",
         "tab.fill.@selected": "202020",
 
         "toggle.border": "0000000%",
@@ -202,21 +202,21 @@
 
         "interline.block.fill": "3d3d3d",
 
-        "editor.fill": "1F1F24",
+        "editor.fill": "292A2F",
 
         "statusbar.editor.fill": "202020",
 
-        "editor.text": "dfdfdf",
+        "editor.text": "FFFFFF",
         "editor.braceHighlight.fill": "4b4b4b",
         "editor.caret.fill": "d8ccff",
         "editor.currentLine.fill": "2e2e2e",
         "editor.currentLine.fill.@focused": "2e2e2e",
-        "editor.lineNumber.text": "676767",
-        "editor.lineNumber.text.@selected": "b8b8b8",
+        "editor.lineNumber.text": "6C7986",
+        "editor.lineNumber.text.@selected": "FFFFFF",
         "editor.whitespace.text": "595959",
         "editor.caret.remote.fill": "c69eff",
 
-        "header.fill": "181818",
+        "header.fill": "363637",
 
         "icon.button.border": "0000000%",
         "icon.button.fill": "0000000%",
@@ -367,15 +367,15 @@
         "completion.match.fill": "0000000%",
         "completion.match.text": "d8ccff",
 
-        "tab.text": "9d9d9d",
-        "tab.fill.@hovered": "20202060%",
-        "tab.pane.fill": "101010",
-        "tab.pane.border": "4b4b4b",
+        "tab.text": "DDDDDD",
+        "tab.fill.@hovered": "282828",
+        "tab.pane.fill": "202020",
+        "tab.pane.border": "FFFFFF",
         "tab.border.@hovered": "0000000%",
-        "tab.text.@hovered": "9d9d9d",
-        "tab.border.@selected": "3d3d3d",
-        "tab.text.@selected": "9d9d9d",
-        "tab.border.@focused.@selected": "8579ab",
+        "tab.text.@hovered": "DDDDDD",
+        "tab.border.@selected": "656E81",
+        "tab.text.@selected": "DDDDDD",
+        "tab.border.@focused.@selected": "656E81",
         "tab.fill.@focused.@selected": "202020",
         "tab.text.@focused.@selected": "dfdfdf",
 
@@ -455,7 +455,7 @@
         "toggle.fill.@selected.@disabled.@pressed": "2e2e2e",
         "toggle.text.@selected.@disabled.@pressed": "9d9d9d",
 
-        "tool.fill": "181818",
+        "tool.fill": "282828",
 
         "tooltip.fill": "2e2e2e",
         "tooltip.border": "4b4b4b",
@@ -518,19 +518,19 @@
             }
         },
         "comment": {
-            "fgColor": "7f8c99",
+            "fgColor": "6C7986",
             "layer": 5
         },
         "comment.parameter": {
-            "fgColor": "9da5ff",
+            "fgColor": "92A1B1",
             "layer": 5
         },
         "comment.parameter.value": {
-            "fgColor": "7f8c99",
+            "fgColor": "92A1B1",
             "layer": 5
         },
         "link": {
-            "fgColor": "428EE1"
+            "fgColor": "5482FF"
         },
         "link.always.visible": {
             "decoration": {}
@@ -543,24 +543,27 @@
             }
         },
         "keyword": {
-            "fgColor": "f97bb0",
-            "layer": 20
+            "fgColor": "FC5FA3",
+            "layer": 20,
+            "fontModifier": {
+                "bold": true
+            }
         },
         "keyword.typeModifier": {
-            "fgColor": "f97bb0",
+            "fgColor": "FC5FA3",
             "layer": 20,
             "fontModifier": {}
         },
         "metadata": {
-            "fgColor": "ff78b2",
+            "fgColor": "D0A8FF",
             "layer": 25
         },
         "number": {
-            "fgColor": "d7c781",
+            "fgColor": "D0BF69",
             "layer": 10
         },
         "boolean": {
-            "fgColor": "f97bb0",
+            "fgColor": "FC5FA3",
             "layer": 10
         },
         "string": {
@@ -590,11 +593,11 @@
             "layer": 25
         },
         "identifier": {
-            "fgColor": "fcfcfc",
+            "fgColor": "FFFFFF",
             "layer": 10
         },
         "identifier.this": {
-            "fgColor": "f97bb0",
+            "fgColor": "FC5FA3",
             "layer": 20,
             "fontModifier": {}
         },
@@ -604,65 +607,65 @@
             "layer": 1000
         },
         "identifier.constant": {
-            "fgColor": "ffa245",
+            "fgColor": "A167E6",
             "layer": 20
         },
         "identifier.constant.predefined": {
-            "fgColor": "ffa245",
+            "fgColor": "A167E6",
             "layer": 20,
             "fontModifier": {}
         },
         "identifier.variable.local": {
-            "fgColor": "fcfcfc",
+            "fgColor": "67B7A4",
             "layer": 20
         },
         "identifier.variable.local.reassigned": {
-            "fgColor": "fcfcfc",
+            "fgColor": "67B7A4",
             "layer": 20,
             "decoration": {
                 "color": "828282"
             }
         },
         "identifier.parameter": {
-            "fgColor": "fcfcfc",
+            "fgColor": "67B7A4",
             "layer": 20
         },
         "identifier.function.declaration": {
-            "fgColor": "75c2b3",
+            "fgColor": "67B7A4",
             "layer": 20,
             "fontModifier": {}
         },
         "identifier.function.call": {
-            "fgColor": "75c2b3",
-            "layer": 20
-        },
-        "identifier.function.call.suspend": {
-            "fgColor": "75c2b3",
-            "layer": 20
-        },
-        "identifier.function.call.package": {
-            "fgColor": "75c2b3",
-            "layer": 20
-        },
-        "identifier.method.static": {
-            "fgColor": "75c2b3",
-            "layer": 20
-        },
-        "identifier.type": {
-            "fgColor": "acbfff",
-            "layer": 20
-        },
-        "identifier.field": {
             "fgColor": "67B7A4",
             "layer": 20
         },
+        "identifier.function.call.suspend": {
+            "fgColor": "67B7A4",
+            "layer": 20
+        },
+        "identifier.function.call.package": {
+            "fgColor": "67B7A4",
+            "layer": 20
+        },
+        "identifier.method.static": {
+            "fgColor": "67B7A4",
+            "layer": 20
+        },
+        "identifier.type": {
+            "fgColor": "9EF1DD",
+            "layer": 20
+        },
+        "identifier.field": {
+            "fgColor": "41A1C0",
+            "layer": 20
+        },
         "identifier.field.static": {
-            "fgColor": "b4bbff",
+            "fgColor": "41A1C0",
             "layer": 20,
             "fontModifier": {}
         },
         "identifier.interface": {
-            "fgColor": "5DD8FF",
+            "fgColor": "D0A8FF",
             "layer": 20
         },
         "identifier.type.class": {
@@ -678,11 +681,11 @@
             "layer": 20
         },
         "identifier.type.valueType": {
-            "fgColor": "acbfff",
+            "fgColor": "D0A8FF",
             "layer": 20
         },
         "identifier.typeParameter": {
-            "fgColor": "acbfff",
+            "fgColor": "67B7A4",
             "layer": 20
         },
         "identifier.namedArgument": {
@@ -690,26 +693,26 @@
             "layer": 20
         },
         "identifier.other": {
-            "fgColor": "dfdfdf",
+            "fgColor": "A167E6",
             "layer": 20
         },
 
         "markup.heading": {
-            "fgColor": "f0b7ff",
+            "fgColor": "AA0D91",
             "layer": 20,
             "fontModifier": {
                 "bold": true
             }
         },
         "markup.bold": {
-            "fgColor": "bfbaff",
+            "fgColor": "92A1B1",
             "layer": 20,
             "fontModifier": {
                 "bold": true
             }
         },
         "markup.italic": {
-            "fgColor": "bfbaff",
+            "fgColor": "92A1B1",
             "layer": 20,
             "fontModifier": {}
         },
