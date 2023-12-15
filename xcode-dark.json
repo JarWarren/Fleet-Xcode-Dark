@@ -23,7 +23,7 @@
 
         "tab.border": "282828",
         "tab.fill": "282828",
-        "tab.fill.@selected": "202020",
+        "tab.fill.@selected": "282828",
 
         "toggle.border": "0000000%",
         "toggle.fill": "3d3d3d",
@@ -204,7 +204,7 @@
 
         "editor.fill": "292A2F",
 
-        "statusbar.editor.fill": "202020",
+        "statusbar.editor.fill": "282828",
 
         "editor.text": "FFFFFF",
         "editor.braceHighlight.fill": "4b4b4b",
@@ -369,14 +369,14 @@
 
         "tab.text": "DDDDDD",
         "tab.fill.@hovered": "282828",
-        "tab.pane.fill": "202020",
+        "tab.pane.fill": "282828",
         "tab.pane.border": "FFFFFF",
         "tab.border.@hovered": "0000000%",
         "tab.text.@hovered": "DDDDDD",
         "tab.border.@selected": "656E81",
         "tab.text.@selected": "DDDDDD",
         "tab.border.@focused.@selected": "656E81",
-        "tab.fill.@focused.@selected": "202020",
+        "tab.fill.@focused.@selected": "282828",
         "tab.text.@focused.@selected": "dfdfdf",
 
         "terminal.ansiBlack.fill": "202020",
