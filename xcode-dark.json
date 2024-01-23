@@ -44,16 +44,16 @@
 
         "fill.@dimmed": "101010",
 
-        "text.@dimmed": "9d9d9d",
+        "text.@dimmed": "9d9d9d50%",
 
         "fill.@disabled": "2e2e2e",
 
-        "text.@disabled": "9d9d9d",
+        "text.@disabled": "9d9d9d50%",
 
         "fill.@error": "b0005e",
 
         "text.@error": "ff8cb5",
-        "text.@hovered": "dfdfdf",
+        "text.@hovered": "FFFFFF",
 
         "fill.@inverted": "202020",
 
@@ -290,8 +290,14 @@
 
         "list.cursor.border": "8579ab",
 
-        "popup.fill": "2e2e2e",
+        "popup.fill": "202020",
         "popup.border": "4b4b4b",
+        "popup.shortcut.fill": "dfdfdf",
+        "popup.shortcut.text": "Black",
+        "popup.itemCell.fill": "2e2e2e",
+
+        "input.validation.popup.fill": "#993750",
+        "input.validation.popup.text": "White",
 
         "primary.button.fill": "c1adff",
         "primary.button.focusRing": "8579ab",
@@ -365,7 +371,7 @@
         "match.text": "f9f9f9",
 
         "completion.match.fill": "0000000%",
-        "completion.match.text": "d8ccff",
+        "completion.match.text": "9f9f9f",
 
         "tab.text": "DDDDDD",
         "tab.fill.@hovered": "282828",
