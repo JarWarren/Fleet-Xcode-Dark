@@ -292,8 +292,8 @@
 
         "popup.fill": "202020",
         "popup.border": "4b4b4b",
-        "popup.shortcut.fill": "dfdfdf",
-        "popup.shortcut.text": "Black",
+        "popup.shortcut.fill": "6C7986",
+        "popup.shortcut.text": "2e2e2e",
         "popup.itemCell.fill": "2e2e2e",
 
         "input.validation.popup.fill": "#993750",
@@ -522,6 +522,24 @@
                 "color": "c1adff",
                 "style": "BORDER"
             }
+        },
+        "editor.indent.guide": {
+            "fgColor": "6C798650%",
+            "decoration": {
+                "style": "DASHED"
+            }
+        },
+        "editor.indent.guide.current": {
+            "fgColor": "6C798650%",
+            "decoration": {
+                "style": "DASHED"
+            }
+        },
+        "editor.indent.guide.declaration": {
+            "fgColor": "6C798650%",
+        },
+        "editor.indent.guide.declaration.current": {
+            "fgColor": "6C798650%",
         },
         "comment": {
             "fgColor": "6C7986",
