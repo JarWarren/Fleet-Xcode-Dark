@@ -523,22 +523,22 @@
                 "style": "BORDER"
             }
         },
-        "editor.indent.guide": {
+        "editor.indentGuide": {
             "fgColor": "6C798650%",
             "decoration": {
                 "style": "DASHED"
             }
         },
-        "editor.indent.guide.current": {
+        "editor.indentGuide.current": {
             "fgColor": "6C798650%",
             "decoration": {
                 "style": "DASHED"
             }
         },
-        "editor.indent.guide.declaration": {
+        "editor.indentGuide.declaration": {
             "fgColor": "6C798650%",
         },
-        "editor.indent.guide.declaration.current": {
+        "editor.indentGuide.declaration.current": {
             "fgColor": "6C798650%",
         },
         "comment": {
